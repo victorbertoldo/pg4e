@@ -1,0 +1,10 @@
+insert into marcar (id, marca) values (1, 'Audi');
+insert into marcar (id, marca) values (2, 'Ford');
+insert into marcar (id, marca) values (3, 'Acura');
+insert into marcar (id, marca) values (4, 'Land Rover');
+insert into marcar (id, marca) values (5, 'Ford');
+insert into marcar (id, marca) values (6, 'Toyota');
+insert into marcar (id, marca) values (7, 'Suzuki');
+insert into marcar (id, marca) values (8, 'Infiniti');
+insert into marcar (id, marca) values (9, 'BMW');
+insert into marcar (id, marca) values (10, 'Buick');
